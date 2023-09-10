@@ -2,22 +2,29 @@
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="300"/>
 </div>
 
-<div align="center">
-<h1>
-  Привет
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  меня зовут Юлия, я инженер по тестированию ПО
-</h1>
-</div>
 
-- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:yuliya.sapeha@gmail.com)
+  Привет, меня зовут Юлия! Я инженер по тестированию программного обеспечения.Здесь я разместила портфолио с информацией о знаниях и навыках тестирования, которые я приобрела на курсах [Функциональное тестирование ПО](https://artsiomrusau.com/) . Для себя в сфере IT я вижу намного больше путей развития. Всегда стремлюсь изучать что-то новое и применять это на практике.
 
-### 🤝 Социальные сети:
-  <div>
-    <a href="https://t.me/YuliyaSapeha" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+
+  ✅ В работе и обучении готова применять развитые soft-skills:
+ - аналитическое мышление;
+ - гибкий ум и творческий подход;
+ - умение работать в команде;
+ - пунктуальность и организованность.
+
+ ---
+  📄 Моё резюме: [![My resume](https://img.shields.io/badge/CV-blue?style=flat&logo=CV&logoColor=white&labelColor=white&color=white&link=%40https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1M7NBOE0HIdKiDDf32Kj_Cs4N9NN3YE9o%2Fview%3Fusp%3Dsharing-blue)](https://drive.google.com/file/d/1R7LgO7JNf2GOSa3dEEPejpYe0mpsHvie/view?usp=sharing)
+ ---
+ - 📞  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/%40YuliyaSapeha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/YuliyaSapeha) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:yuliya.sapeha@gmail.com)
+
+---
+ ### 🤝 Social media:
+ <div id="badges">
+    <a href="https://www.linkedin.com/in/sapehayuliya/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-  </div>
+
+
   ### 📁 Тестовая документация:
 
 <div>
@@ -25,7 +32,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
   <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
-  <img src="https://kodeclust.com/wp-content/uploads/2022/12/testlink.png" title="TestLink" alt="TestLink" width="40" height="40"/>&nbsp
+  <img src="https://kodeclust.com/wp-content/uploads/2022/12/testlink.png" title="TestLink" alt="TestLink" width="60" height="50"/>&nbsp
 </div>
 
 ---
@@ -34,7 +41,7 @@
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://pngset.com/images/postman-software-vehicle-transportation-aircraft-airship-transparent-png-2560940.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
 </div>
 
 ---
