@@ -88,5 +88,8 @@
 | [artsiomrusau.com](https://artsiomrusau.com/)/ Курс "Функциональное тестирование ПО"                            | 06/2022 - 09/2022 |
 
 
+---
+### 📜 Сертификат:
+🔗[QA engineer] (https://v2.coreapp.ai/certificate/pdf/64fdb7da140da14a5cbca91b)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YuliyaSapeha)
